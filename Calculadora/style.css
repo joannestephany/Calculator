@@ -6,8 +6,7 @@ body{
 #back{ /* fundo da página*/
 	width: 100%;
 	height: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(backfofo2.png);
-    /*margin: 10px auto;	*/
+   	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(backfofo2.png);
 	position: absolute;
 	background-size: cover;
 	cursor: url(Mosca.cur),default;
